@@ -32,7 +32,6 @@ public class HomePage extends BasePage {
 
     /**
      * Write the Departure location
-     *
      * @param start String
      * @return
      */
@@ -55,7 +54,7 @@ public class HomePage extends BasePage {
 
     /**
      * Date of the trip
-     *
+    
      * @param year
      * @param month
      * @param day
